@@ -1,6 +1,8 @@
 Here are few commands in git:
 git log
 git diff
-git push
-git pull 
-git commit 
+git push -u origin master
+git pull origin master
+git commit -m "message"
+git status
+git branch branch_name

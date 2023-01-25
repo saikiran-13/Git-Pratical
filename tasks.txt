@@ -1,0 +1,3 @@
+Today's Tasks:
+- complete the git and github tutorial
+- start learning the javascript course

@@ -1,0 +1,4 @@
+This is rebase command used to overwrite the history of commits.It must be used carefully
+git rebase branch_name
+git rebase --abort
+git rebase --continue
